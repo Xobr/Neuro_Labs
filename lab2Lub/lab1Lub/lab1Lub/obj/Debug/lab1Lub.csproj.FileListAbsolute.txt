@@ -1,0 +1,45 @@
+c:\users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe.config
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\bin\Debug\lab1Lub.pdb
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csprojResolveAssemblyReference.cache
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Form1.resources
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Properties.Resources.resources
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csproj.GenerateResource.Cache
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.exe
+c:\Users\polokhach\documents\visual studio 2015\Projects\lab1Lub\lab1Lub\obj\Debug\lab1Lub.pdb
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe.config
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.exe
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.pdb
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\bin\Debug\lab1Lub.pdb
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csprojResolveAssemblyReference.cache
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Form1.resources
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Properties.Resources.resources
+C:\Users\dpolokhach\Documents\Рабікон\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csproj.GenerateResource.Cache
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe.config
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.exe
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.pdb
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\bin\Debug\lab1Lub.pdb
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csprojResolveAssemblyReference.cache
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Form1.resources
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Properties.Resources.resources
+D:\Univesity\Рабик\Tasks\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csproj.GenerateResource.Cache
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe.config
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\bin\Debug\lab1Lub.pdb
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csprojResolveAssemblyReference.cache
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Form1.resources
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Properties.Resources.resources
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csproj.GenerateResource.Cache
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.exe
+C:\Users\dpolo\Documents\UNI\lab1Lub\lab1Lub\obj\Debug\lab1Lub.pdb
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe.config
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.exe
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.pdb
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\bin\Debug\lab1Lub.exe
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\bin\Debug\lab1Lub.pdb
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csprojResolveAssemblyReference.cache
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Form1.resources
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.Properties.Resources.resources
+C:\Users\dpolo\Documents\UNI\lab2Lub\lab1Lub\lab1Lub\obj\Debug\lab1Lub.csproj.GenerateResource.Cache
